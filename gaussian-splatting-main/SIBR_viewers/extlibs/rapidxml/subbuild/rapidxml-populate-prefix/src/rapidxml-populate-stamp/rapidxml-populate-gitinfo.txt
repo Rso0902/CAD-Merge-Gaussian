@@ -1,3 +1,0 @@
-repository='https://gitlab.inria.fr/sibr/libs/rapidxml.git'
-module=''
-tag='origin'

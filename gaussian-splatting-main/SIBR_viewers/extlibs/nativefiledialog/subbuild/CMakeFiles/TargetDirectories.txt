@@ -1,3 +1,0 @@
-/home/rso/codes/gaussian-splatting-main/SIBR_viewers/extlibs/nativefiledialog/subbuild/CMakeFiles/rebuild_cache.dir
-/home/rso/codes/gaussian-splatting-main/SIBR_viewers/extlibs/nativefiledialog/subbuild/CMakeFiles/edit_cache.dir
-/home/rso/codes/gaussian-splatting-main/SIBR_viewers/extlibs/nativefiledialog/subbuild/CMakeFiles/nativefiledialog-populate.dir

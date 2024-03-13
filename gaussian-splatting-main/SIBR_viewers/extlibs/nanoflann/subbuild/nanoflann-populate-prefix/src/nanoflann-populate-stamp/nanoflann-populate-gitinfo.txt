@@ -1,3 +1,0 @@
-repository='https://gitlab.inria.fr/sibr/libs/nanoflann.git'
-module=''
-tag='origin'
