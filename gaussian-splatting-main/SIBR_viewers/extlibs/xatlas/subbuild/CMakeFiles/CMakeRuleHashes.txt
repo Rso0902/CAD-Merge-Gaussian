@@ -1,0 +1,11 @@
+# Hashes of file build rules.
+3feba16d355ea36b7c40f5bfdc64a137 CMakeFiles/xatlas-populate
+7c7db8c3523d823b48d5cb1d2afd6574 CMakeFiles/xatlas-populate-complete
+ac4b67631ff9c9f82ce490ab13c9f260 xatlas-populate-prefix/src/xatlas-populate-stamp/xatlas-populate-build
+68c80ec57636052497b73e4d18aba31f xatlas-populate-prefix/src/xatlas-populate-stamp/xatlas-populate-configure
+c2d1d73dfd4d2c2ee0a84b585c9f5024 xatlas-populate-prefix/src/xatlas-populate-stamp/xatlas-populate-download
+160efbecae62d097064f86bed9318d92 xatlas-populate-prefix/src/xatlas-populate-stamp/xatlas-populate-install
+cd06e631d53050427f9ffb3f51201aef xatlas-populate-prefix/src/xatlas-populate-stamp/xatlas-populate-mkdir
+adb0f97437a0392a77511abcb662d1b6 xatlas-populate-prefix/src/xatlas-populate-stamp/xatlas-populate-patch
+a185b26fef74667531b769b5c7ade0c0 xatlas-populate-prefix/src/xatlas-populate-stamp/xatlas-populate-test
+207a0fc6e6f1eaafe15d3f3c80497d28 xatlas-populate-prefix/src/xatlas-populate-stamp/xatlas-populate-update

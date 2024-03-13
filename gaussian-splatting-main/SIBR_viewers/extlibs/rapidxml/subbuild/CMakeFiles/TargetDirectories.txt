@@ -1,0 +1,3 @@
+/home/rso/codes/gaussian-splatting-main/SIBR_viewers/extlibs/rapidxml/subbuild/CMakeFiles/edit_cache.dir
+/home/rso/codes/gaussian-splatting-main/SIBR_viewers/extlibs/rapidxml/subbuild/CMakeFiles/rebuild_cache.dir
+/home/rso/codes/gaussian-splatting-main/SIBR_viewers/extlibs/rapidxml/subbuild/CMakeFiles/rapidxml-populate.dir
